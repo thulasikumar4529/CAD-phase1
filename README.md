@@ -35,14 +35,7 @@ A simple E-commerce website using Flask.
 4. Run the server (pipenv run python main.py)
 
 5. Enter localhost:5000 in the browser
+   
 
 
-
-## Sample User ##
-
-Sample credentials present in existing database:
-
-Username - sample@example.com
-
-Password - sample
 
